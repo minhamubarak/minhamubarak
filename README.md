@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minhamubarak
 - 👀 I’m interested in reinforcement learning over communication constraints
-- 📫 Mail me  at minhaa.9@gmail.com
+- 📫 Mail me  at minhaa.09@gmail.com
 
 <!---
 minhamubarak/minhamubarak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
